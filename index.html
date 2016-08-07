@@ -1,65 +1,73 @@
-<?php
-/*************************************************
- * Micro News
- *
- * Version: 1.0
- * Date: 2007-07-12
- *
- * Usage:
- *
- ****************************************************/
-
-// This function reads all available news
-function getNewsList(){
-	
-   $fileList = array();
-   
-	// Open the actual directory
-	if ($handle = opendir("news")) {
-		// Read all file from the actual directory
-		while ($file = readdir($handle))  {
-		    if (!is_dir($file)) {
-		       $fileList[] = $file;
-      	}
-		}
-	}	
-	
-	rsort($fileList);
-	
-	return $fileList;
-}
-
-?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-   <title>Micro News</title>
-   <link href="style/style.css" rel="stylesheet" type="text/css" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<title>HTML5</title>
+<style>
+body {
+    font-family:Verdana,sans-serif;font-size:0.8em;
+}
+div#header,div#footer,div#content,div#post {
+    border:1px solid grey;
+    margin:5px;margin-bottom:15px;padding:8px;
+    background-color:white;
+}
+div#header,div#footer {
+    color:white;background-color:#444;margin-bottom:5px;
+}
+div#content {
+    background-color:#ddd;
+}
+div#menu ul  {
+    margin:0;padding:0;
+}
+div#menu ul li {
+    display:inline; margin:5px;
+}
+</style>
 </head>
 <body>
-  <div id="main">
-    <div id="caption">Micro News</div>
-    <table width="100%">
-    <?php
-    
-      $list = getNewsList();
-      foreach ($list as $value) {
-      	$newsData = file("news/".$value);
-      	$newsTitle  = $newsData[0];
-         $submitDate = $newsData[1];	
-         unset ($newsData['0']);
-         unset ($newsData['1']);
-      	
-         $newsContent = "";
-         foreach ($newsData as $value) {
-    	       $newsContent .= $value;
-         }
-      	
-      	echo "<tr><th align='left'>$newsTitle</th><th align='right'>$submitDate</th></tr>";
-      	echo "<tr><td colspan='2'>".$newsContent."<br/><hr size='1'/></td></tr>";
-      }
-    ?>
-    </table>
-	 <div id="source">Micro News 1.0</div>
-  </div>
-</body>   
+
+<div id="header">
+<h1>Monday Times</h1>
+</div>
+
+<div id="menu">
+<ul>
+  <li>News</li>
+  <li>Sports</li>
+  <li>Weather</li>
+</ul>
+</div>
+
+<div id="content">
+<h2>News Section</h2>
+
+<div id="post">
+<h2>News Article</h2>
+<p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum 
+lurum hurum turum.</p>
+<p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum 
+lurum hurum turum.</p>
+<p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum 
+lurum hurum turum.</p>
+</div>
+
+<div id="post">
+<h2>News Article</h2>
+<p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum 
+lurum hurum turum.</p>
+<p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum 
+lurum hurum turum.</p>
+<p>Ipsum lurum hurum turum ipsum lurum hurum turum ipsum lurum hurum turum ipsum 
+lurum hurum turum.</p>
+</div>
+
+</div>
+
+<div id="footer">
+<p>&copy; 2014 Monday Times. All rights reserved.</p>
+</div>
+
+</body>
+</html>
