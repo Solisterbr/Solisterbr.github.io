@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link rel="shortcut icon" href="favicon.ico">
+    <title>Solister.top - Editando os ícones do Level Select do Sonic 2
+      (16-bits)</title>
+  </head>
+  <body style="               background-image: url(&quot;bgimage.jpg&quot;);">
+    <div style="text-align: center;"><!-- SCM Music Player http://scmplayer.co -->
+      <script type="text/javascript" src="https://scmplayer.co/script.js" data-config="{'skin':'skins/aquaBlue/skin.css','volume':100,'autoplay':false,'shuffle':false,'repeat':1,'placement':'top','showplaylist':true,'playlist':[{'title':'Silent Code - East Star','url':'https://www.youtube.com/watch?v=vfxvHSR3vSE'},{'title':'Silent Code - Spell Bound','url':'https://www.youtube.com/watch?v=T13Pann2oJg'},{'title':'Silent Code - Night Train','url':'https://www.youtube.com/watch?v=cyQbdI3Kxiw'},{'title':'Christopher Lawrence - Rush Hour','url':'https://www.youtube.com/watch?v=f11aEVOKHts'},{'title':'Fluke - Switch/Twitch','url':'https://www.youtube.com/watch?v=Awaph0MavCw'},{'title':'Paul van Dyk - Nothing but You','url':'https://www.youtube.com/watch?v=ReqPNqp8v14'},{'title':'Deadmau5 - Channel 42','url':'https://www.youtube.com/watch?v=kT8TdSEAZnM'},{'title':'Popeska - Now or Never','url':'https://www.youtube.com/watch?v=2kSt31yONHI'},{'title':'The Joy Formidable - Little Blimp','url':'https://www.youtube.com/watch?v=RtghKWVU9AY'},{'title':'Julien-K - Analog Beaches & Digital Cities','url':'https://www.youtube.com/watch?v=-YJ7sYgmnko'},{'title':'UT2004 - Hyperblast Redux','url':'https://www.youtube.com/watch?v=nka5ymRxOGE'},{'title':'UT99 - Save Me','url':'https://www.youtube.com/watch?v=Jph4hqB5P6c'},{'title':'UT Pre-Alpha Menu Theme','url':'https://www.youtube.com/watch?v=TXrkTZMX5VI'},{'title':'One Must Fall 2097 - Menu Theme','url':'https://www.youtube.com/watch?v=TXrkTZMX5VI'},{'title':'Stardust Memories','url':'https://www.youtube.com/watch?v=GLMhBE99byM'},{'title':'Space Debris','url':'https://www.youtube.com/watch?v=W2u5yFC5eEE'}]}"></script>
+      <!-- SCM Music Player script end -->
+      <div style="text-align: center;"><a href="solister.top"><img title="Solister.top"
+            src="Solister.top%20New%20Logo.png" style="width: 729px; height: 89px;"></a>
+      </div>
+      <style>ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #0094ff;
+}
+
+
+dir {
+    background-color: white;
+    border: 5px solid black;
+    padding: 7px;
+    margin: 7px;
+}
+</style></div>
+    <div style="text-align: center;">
+      <dir>
+        <div style="text-align: left;">
+          <h1 style="text-align: center;"><b>Editando os Ícones do Level Select
+              do Sonic 2 (16-bits)</b></h1>
+          <p><a href="Solister.top" title="Solister.top">← Ir para a Home</a></p>
+          <p><b>Nota:</b> Funciona apenas com a versão Rev01 do Sonic 2.</p>
+          <p style=" text-align: left;">Olá, este é um artigo onde vou ensinar
+            como trocar os ícones do Level Select do Sonic 2 (16-bits) de SEGA
+            Genesis/Mega Drive. Esta certamente é a minha maior e mais complexa
+            pesquisa que já fiz envolvendo modificações em um jogo do Sonic, e
+            por ser algo um tanto complexo pode ser que nem todos compreendam
+            tudo o que foi escrito aqui. Na realidade, eu já conheço este código
+            desde mais ou menos 2012, e com o passar dos anos fui analisando-o
+            até encontrar a função completa dele.</p>
+          <p style=" text-align: left;">A princípio é necessário que você tenha
+            pelo menos alguma noção do que são Pro Action Replays e Game Genies,
+            além de uma noção básica do que é hexadecimal, pois isso poderá
+            facilitar o entendimento.</p>
+          <p style=" text-align: left;">O código Pro Action Replay usado é este
+            daqui: 0096<b>00</b>:<u>00</u><i>00</i>.</p>
+          <p style=" text-align: left;">O texto em negrito, sublinhado e em
+            itálico indicam as partes do código modificáveis, o que você
+            colocará nesses espaços será revelado aqui mais tarde.</p>
+          <h3 style="    text-align: left;"><b>Escolhendo a fase para ser
+              editada:</b></h3>
+          <p style=" text-align: left;">O primeiro <b>00</b> em <b>negrito </b>do
+            código,<b> </b>vai indicar a fase que você desja substituir pelo
+            ícone de outra fase. Para determinar qual fase será editada, você
+            deve usar algum código da lista a seguir, apesar de terem nomes de
+            fases duplicados, qualquer um dos dois não faz diferença. Uma regra
+            especial é usada a partir de Metropolis Zone que é explicada após a
+            lista.</p>
+          <p style=" text-align: left;"><u><b>Código e nomes das fases a serem
+                modificados:</b></u></p>
+          <p style=" text-align: left;">D8 - Emerald Hill </p>
+          <p>D9 - Emerald Hill</p>
+          <p>DA - Chemical Plant</p>
+          <p>DB - Chemical Plant</p>
+          <p>DC - Aquatic Ruin</p>
+          <p>DD - Aquatic Ruin</p>
+          <p>DE - Casino Night</p>
+          <p>DF - Casino Night</p>
+          <p>E0 - Hill Top</p>
+          <p>E1 - Hill Top</p>
+          <p>E2 - Mystic Cave</p>
+          <p>E3 - Mystic cave</p>
+          <p>E4 - Oil Ocean</p>
+          <p>E5 - Oil Ocean</p>
+          <p>E6 - Metropolis (Acts 1 e 2)</p>
+          <p>E7 - Metropolis (Acts 1 e 2)</p>
+          <p>E8 - Metropolis (Act 3) e Sky Chase</p>
+          <p>E9 - Metropolis (Act 3) e Sky Chase</p>
+          <p>EA - Wing Fortress e Death Egg</p>
+          <p>EB - Wing Fortress e Death Egg</p>
+          <p>EC - Special Stage e Sound Test</p>
+          <p>ED - Special Stage e Sound Test</p>
+          <b>Nota: </b>O act 3 de Metropolis compartilha o slot de Sky Chase, o
+          mesmo vale para Wing Fortress e Death Egg; Special Stage e Sound Test.<br>
+          <br>
+          Exemplo: Se quiser trocar o ícone da Aquatic Ruin, seu código deverá
+          ficar assim: 0096<b>DC</b>:<u>00</u><i>00</i>.<br>
+          <h3>Escolhendo o ícone da fase para substituir o da fase escolhida:</h3>
+          Feito isso, devemos analisar agora uma outra lista de códigos para
+          escolher o ícone da fases que iremos substituir pela fase original
+          escolhida acima. Para fazer isso você deverá editar o <u>00</u>
+          sublinhado e o <i>00</i> em itálico. O 00 sublinhado indica o act 1
+          da fase e o 00 em itálico indica o act 2 da fase.<br>
+          <p><b>Código dos ícones e nomes de suas fases:</b></p>
+          00 - Emerald Hill
+          <p>01 - Metropolis</p>
+          <p>02 - Hill Top</p>
+          <p>03 - Hidden Palace<b><strong> (!)<br>
+              </strong></b></p>
+          <p>04 - Oil Ocean</p>
+          <p>05 - Mystic Cave</p>
+          <p>06 - Casino Night</p>
+          <p>07 - Chemical Plant</p>
+          <p>08 - Aquatic Ruin</p>
+          <p>09 - Sky Chase</p>
+          <p>0A - Wing Fortress</p>
+          <p>0B - Death Egg</p>
+          <p>0C - Special Stage</p>
+          <p>0D - X</p>
+          <p>0E - Sound Test</p>
+          <p><b>Obs:</b> Colocar algum número que não contém nas duas tabelas
+            causará erro.</p>
+          <p>Exemplo: Como visto acima, usamos o código 0096<b>DC</b>:<u>00</u><i>00
+              </i>para alterar o ícone de Aquatic Ruin, se não alterassemos o
+            código, acabaríamos substituindo os dois ícones da Aquatic Ruin pelo
+            da Emerald Hill, para alterá-los novamente, basta trocar os <u>00</u><i>00
+              </i>por algum código da lista acima.</p>
+          Algo interessante, é a ordem em que as fases ficaram disponibilizadas,
+          seria essa uma possível ordem inicalmente planejada?<br>
+          <div style="text-align: right;">- Solister, 26/09/2017</div>
+          <div style="text-align: left;"><a href="Solister.top" title="Solister.top">←
+              Ir para a Home</a></div>
+        </div>
+      </dir>
+    </div>
+    <dir>
+      <div style="text-align: left;"><noscript><br><a href="https://disqus.com/?ref_noscript"></a></noscript><noscript></noscript><noscript></noscript></div>
+    </dir>
+    <ul style="text-align: center;">
+      <font color="white">
+        <p>©2018 Solister.top</p>
+      </font>
+    </ul>
+    <script id="dsq-count-scr" src="//solister-top-1.disqus.com/count.js" async=""></script>
+  </body>
+</html>
