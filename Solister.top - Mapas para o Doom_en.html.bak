@@ -7,14 +7,11 @@
   </head>
   <body style="                            background-image: url(&quot;bgimage.jpg&quot;);">
     <div style="text-align: center;"><!-- Song Player http://playlist.me -->
-      <script type="text/javascript" src="http://playlist.me/w/script.js" data-config="{'skin':'skins/aquaBlue/skin.css','volume':50,'autoplay':false,'shuffle':false,'repeat':1,'placement':'top','showplaylist':true,'playlist':[{'title':'Silent Code - East Star','url':'https://www.youtube.com/watch?v=wuwquKSKpdg'},{'title':'Silent Code - Spell Bound','url':'https://www.youtube.com/watch?v=T13Pann2oJg'},{'title':'Silent Code - Night Train','url':'https://www.youtube.com/watch?v=cyQbdI3Kxiw'},{'title':'Christopher Lawrence - Rush Hour','url':'https://www.youtube.com/watch?v=f11aEVOKHts'},{'title':'Fluke - Switch/Twitch','url':'https://www.youtube.com/watch?v=Awaph0MavCw'},{'title':'Paul van Dyk - Nothing but You','url':'https://www.youtube.com/watch?v=ReqPNqp8v14'},{'title':'Deadmau5 - Channel 42','url':'https://www.youtube.com/watch?v=kT8TdSEAZnM'},{'title':'Popeska - Now or Never','url':'https://www.youtube.com/watch?v=2kSt31yONHI'},{'title':'The Joy Formidable - Little Blimp','url':'https://www.youtube.com/watch?v=RtghKWVU9AY'},{'title':'Julien-K - Analog Beaches & Digital Cities','url':'https://www.youtube.com/watch?v=-YJ7sYgmnko'},{'title':'UT Pre-Alpha - Menu Theme','url':'https://www.youtube.com/watch?v=__pRaen_n80'},{'title':'UT2004 - HyperBlast Redux','url':'https://www.youtube.com/watch?v=vkK5D_vLZd0'},{'title':'UT99 - Save Me','url':'https://www.youtube.com/watch?v=Jph4hqB5P6c'},{'title':'One Must Fall 2097 - Menu','url':'https://www.youtube.com/watch?v=i0FNUDLdT4A'},{'title':'Space Debris','url':'https://www.youtube.com/watch?v=thnXzUFJnfQ'},{'title':'Stardust Memories','url':'https://www.youtube.com/watch?v=hY9p1oiE1_Y'},{'title':'Jet Set Radio - Magical Girl','url':'https://www.youtube.com/watch?v=JZY4E2Cagv8'},{'title':'Jet Set Radio - Electric Toothbrush','url':'https://www.youtube.com/watch?v=jeKq7vseMSE'},{'title':'Unreal','url':'https://www.youtube.com/watch?v=SCAkbGl9GdE'},{'title':'Unreal 2','url':'https://www.youtube.com/watch?v=Dmhtc5S4atU'}]}"></script><noscript><a
-
+      <script type="text/javascript" src="http://playlist.me/w/script.js" data-config="{'skin':'skins/aquaBlue/skin.css','volume':50,'autoplay':false,'shuffle':false,'repeat':1,'placement':'top','showplaylist':true,'playlist':[{'title':'Silent Code - East Star','url':'https://www.youtube.com/watch?v=wuwquKSKpdg'},{'title':'Silent Code - Spell Bound','url':'https://www.youtube.com/watch?v=T13Pann2oJg'},{'title':'Silent Code - Night Train','url':'https://www.youtube.com/watch?v=cyQbdI3Kxiw'},{'title':'Christopher Lawrence - Rush Hour','url':'https://www.youtube.com/watch?v=f11aEVOKHts'},{'title':'Fluke - Switch/Twitch','url':'https://www.youtube.com/watch?v=Awaph0MavCw'},{'title':'Paul van Dyk - Nothing but You','url':'https://www.youtube.com/watch?v=ReqPNqp8v14'},{'title':'Deadmau5 - Channel 42','url':'https://www.youtube.com/watch?v=kT8TdSEAZnM'},{'title':'Popeska - Now or Never','url':'https://www.youtube.com/watch?v=2kSt31yONHI'},{'title':'The Joy Formidable - Little Blimp','url':'https://www.youtube.com/watch?v=RtghKWVU9AY'},{'title':'Julien-K - Analog Beaches & Digital Cities','url':'https://www.youtube.com/watch?v=-YJ7sYgmnko'},{'title':'UT Pre-Alpha - Menu Theme','url':'https://www.youtube.com/watch?v=__pRaen_n80'},{'title':'UT2004 - HyperBlast Redux','url':'https://www.youtube.com/watch?v=vkK5D_vLZd0'},{'title':'UT99 - Save Me','url':'https://www.youtube.com/watch?v=Jph4hqB5P6c'},{'title':'One Must Fall 2097 - Menu','url':'https://www.youtube.com/watch?v=i0FNUDLdT4A'},{'title':'Space Debris','url':'https://www.youtube.com/watch?v=thnXzUFJnfQ'},{'title':'Stardust Memories','url':'https://www.youtube.com/watch?v=hY9p1oiE1_Y'},{'title':'Jet Set Radio - Magical Girl','url':'https://www.youtube.com/watch?v=JZY4E2Cagv8'},{'title':'Jet Set Radio - Electric Toothbrush','url':'https://www.youtube.com/watch?v=jeKq7vseMSE'},{'title':'Unreal','url':'https://www.youtube.com/watch?v=SCAkbGl9GdE'},{'title':'Unreal 2','url':'https://www.youtube.com/watch?v=Dmhtc5S4atU'}]}"></script><noscript><a
 href="http://playlist.me/skins/">SCM player skins</a></noscript><!-- playlist.me script end -->
-      <div style="text-align: center;"><a href="index.html"><img title="Solister.top"
-
-            src="Solister.top%20New%20Logo.png" style="width: 729px; height: 89px;"></a><a
-
-          href="solister.top"></a> </div>
+      <div style="text-align: center;"><a href="index_en.html"><img title="Solister.top"
+            src="Solister.top%20New%20Logo.png" style="width: 729px; height: 89px;"></a><a
+          href="index.html"></a><a href="solister.top"></a> </div>
       <style>ul {
     list-style-type: none;
     margin: 0;
@@ -34,16 +31,15 @@ dir {
     <div style="text-align: center;">
       <dir> <br>
         <div style="text-align: left;">
-          <div style="text-align: right;"><a href="Solister.top%20-%20Mapas%20para%20o%20Doom.html"><img
-
-                src="USA.png" title="English" style="width: 40px; height: 40px;"><img
-
+          <div style="text-align: right;"><a href="Solister.top%20-%20Mapas%20para%20o%20Doom.html"><img
+                src="USA.png" title="English" style="width: 40px; height: 40px;"><img
                 src="BRA.png" title="Portuguese" style="width: 40px; height: 40px;"></a></div>
           <div style="text-align: center;">
             <h1><b>Doom Maps</b></h1>
           </div>
-          <p style="text-align: left;"><a title="Solister.top" href="index.html">←
-              Back to Home</a><a href="Solister.top" title="Solister.top"></a></p>
+          <p style="text-align: left;"><a title="Solister.top" href="../Nova%20pasta/Solisterbr.github.io/indexen.html">←
+              Back to Home</a><a title="Solister.top" href="index.html"></a><a href="Solister.top"
+              title="Solister.top"></a></p>
           <p style="text-align: left;">Sometimes I like to do some maps for Doom
             Source Ports just or fun when I'm listening to some music. It made
             more than 6 years I've been doing maps for Doom and I belirve I've
@@ -55,8 +51,7 @@ dir {
           <span class="_Xbe kno-fv"></span>
           <div>
             <h3 style="text-align: left;"><b><b> </b> </b> </h3>
-            <div style="float: left; text-align: left;"><img style="width: 400px; height: 250px;"
-
+            <div style="float: left; text-align: left;"><img style="width: 400px; height: 250px;"
                 title="Industry" src="Screenshot_Doom_20180307_171231.png"></div>
             <div style="text-align: left;">&nbsp; <b>Name: </b>Industry<br>
               &nbsp; <b>Year: </b>2018<br>
@@ -72,18 +67,12 @@ dir {
                 <div style="text-align: left;"><span class="_Xbe kno-fv">&nbsp;
                     <b>Note: </b>Requires a Doom IWAD and <a href="http://devilhunter.rfc1337.net/wads/skulltag_content2.1a.pk3">Skulltag
                       actors.</a></span><br>
-                  <span class="_Xbe kno-fv"><b>&nbsp; </b></span><span class="_Xbe kno-fv"><b><a
-
-                        href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><img
-
-                          style="width: 50px; height: 50px;" src="Icons/Downloads.png"
-
-                          align="middle"></a></b></span><span class="_Xbe kno-fv"><a
-
-                      href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><span
-
-                        style="color: black;"></span></a></span><span class="_Xbe kno-fv"><b><a
-
+                  <span class="_Xbe kno-fv"><b>&nbsp; </b></span><span class="_Xbe kno-fv"><b><a
+                        href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><img
+                          style="width: 50px; height: 50px;" src="Icons/Downloads.png"
+                          align="middle"></a></b></span><span class="_Xbe kno-fv"><a
+                      href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><span
+                        style="color: black;"></span></a></span><span class="_Xbe kno-fv"><b><a
                         href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad">Download
                         Map<br>
                       </a></b></span></div>
@@ -91,15 +80,13 @@ dir {
                 </div>
                 <span class="_Xbe kno-fv"></span><br>
                 <br>
-                <div style="text-align: right;"><span class="_Xbe kno-fv"></span><span
-
+                <div style="text-align: right;"><span class="_Xbe kno-fv"></span><span
                     class="_Xbe kno-fv"><a href="http://devilhunter.rfc1337.net/wads/skulltag_content2.1a.pk3">.</a></span>
                   <br>
                   <div style="text-align: right;">
                     <div style="text-align: right;">
                       <h3 style="text-align: right;"><b><b> </b> </b> </h3>
-                      <div style="float: right; text-align: right;"><img style="width: 400px; height: 250px;"
-
+                      <div style="float: right; text-align: right;"><img style="width: 400px; height: 250px;"
                           title="Mapa de Deathmatch Sem Nome" src="Screenshot_Doom_20180411_145906.png"></div>
                       <span class="_Xbe kno-fv"><b>&nbsp; </b></span><span class="_Xbe kno-fv"></span><b>Name:
                         </b>Mapa de Deathmatch Sem Nome<br>
@@ -116,46 +103,34 @@ dir {
                       <div style="text-align: right;">
                         <div style="text-align: left;">
                           <div style="text-align: left;">
-                            <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
-
-                                    href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><img
-
-                                      style="width: 50px; height: 50px;" src="Icons/Downloads.png"
-
-                                      align="middle"></a></b></span><span class="_Xbe kno-fv"><a
-
-                                  href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><span
-
-                                    style="color: black;"></span></a></span><span
-
+                            <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
+                                    href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><img
+                                      style="width: 50px; height: 50px;" src="Icons/Downloads.png"
+                                      align="middle"></a></b></span><span class="_Xbe kno-fv"><a
+                                  href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><span
+                                    style="color: black;"></span></a></span><span
                                 class="_Xbe kno-fv"><b><a href="http://www.mediafire.com/file/9p99g5zy5asmukp/DM_MAP01.wad">Download
                                     Map</a></b></span></div>
                           </div>
                         </div>
                       </div>
                     </div>
-                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
-
+                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
                             href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><br>
                           </a></b></span></div>
-                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
-
+                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
                             href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><br>
                           </a></b></span></div>
-                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
-
+                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
                             href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><br>
                           </a></b></span></div>
-                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
-
+                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
                             href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><br>
                           </a></b></span></div>
-                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
-
+                    <div style="text-align: right;"><span class="_Xbe kno-fv"><b><a
                             href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><br>
                           </a></b></span>
-                      <div style="float: left; text-align: left;"><img style="width: 415px; height: 259px;"
-
+                      <div style="float: left; text-align: left;"><img style="width: 415px; height: 259px;"
                           title="Neo Tokyo" src="Screenshot_Doom_20180411_145810.png"></div>
                       <div style="text-align: left;">&nbsp; <b>Name: </b>Neo
                         Tokyo<br>
@@ -170,8 +145,7 @@ dir {
                         <span class="_Xbe kno-fv"><b>&nbsp; Tipo:</b> Just for
                           fun<br>
                         </span></div>
-                      <div style="text-align: left;"><span class="_Xbe kno-fv"><span
-
+                      <div style="text-align: left;"><span class="_Xbe kno-fv"><span
                             class="_Xbe kno-fv"><b><span class="_Xbe kno-fv"><b>&nbsp;
                                   Note¹: </b></span></b><span class="_Xbe kno-fv">Requires
                               a Doom IWAD and</span><b><span class="_Xbe kno-fv">
@@ -190,26 +164,18 @@ dir {
                         <span class="_Xbe kno-fv"><b><br>
                           </b></span></div>
                       <div style="text-align: left;"><span class="_Xbe kno-fv"><b>&nbsp;
-                            </b></span><span class="_Xbe kno-fv"><b><a href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><img
-
-                                style="width: 50px; height: 50px;" src="Icons/Downloads.png"
-
-                                align="middle"></a></b></span><span class="_Xbe kno-fv"><b><a
-
+                            </b></span><span class="_Xbe kno-fv"><b><a href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><img
+                                style="width: 50px; height: 50px;" src="Icons/Downloads.png"
+                                align="middle"></a></b></span><span class="_Xbe kno-fv"><b><a
                               href="http://www.mediafire.com/file/5b1dpnblgxd5v13/Neo+Tokyo+%28MAP01%29.wad">Download
                               Map<br>
                             </a></b></span></div>
                       <div style="text-align: left;"><a href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><br>
-                        </a><span class="_Xbe kno-fv"><b>&nbsp; <img style="width: 50px; height: 50px;"
-
-                              src="Icons/Downloads.png" align="middle"></b></span><span
-
-                          class="_Xbe kno-fv"></span><span class="_Xbe kno-fv"><a
-
-                            href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><span
-
-                              style="color: black;"></span></a></span><span class="_Xbe kno-fv"
-
+                        </a><span class="_Xbe kno-fv"><b>&nbsp; <img style="width: 50px; height: 50px;"
+                              src="Icons/Downloads.png" align="middle"></b></span><span
+                          class="_Xbe kno-fv"></span><span class="_Xbe kno-fv"><a
+                            href="http://www.mediafire.com/file/59jzvap8ypmf2b8/Industry+%28MAP01%29.wad"><span
+                              style="color: black;"></span></a></span><span class="_Xbe kno-fv"
                           style="color: #000066;"><b><a href="http://www.mediafire.com/file/el028r2qu67su9q/Neo+Tokyo+Beta+%28MAP01%29.wad">Download
                               Map (Alpha)</a></b></span> </div>
                     </div>
@@ -220,12 +186,12 @@ dir {
             </div>
             <div style="text-align: right;">&nbsp;- Solister, March/07/2018</div>
             <div style="text-align: right;"><span class="_Xbe kno-fv">- Updated,
-                April/11/2018</span></div>
-            <div style="text-align: right;">(Translated on <span class="_Xbe kno-fv">May/12/2018</span>)<span
-
+                May/15/2018</span></div>
+            <div style="text-align: right;">(Translated on <span class="_Xbe kno-fv">May/15/2018</span>)<span
                 class="_Xbe kno-fv"></span> </div>
-            <div style="text-align: left;"><a title="Solister.top" href="index.html">←
-                Back to Home</a><a title="Solister.top" href="index.html"></a></div>
+            <div style="text-align: left;"><a title="Solister.top" href="../Nova%20pasta/Solisterbr.github.io/indexen.html">←
+                Back to Home</a><a title="Solister.top" href="index.html"></a><a
+                title="Solister.top" href="index.html"></a></div>
             <br>
           </div>
           <div style="text-align: right;">

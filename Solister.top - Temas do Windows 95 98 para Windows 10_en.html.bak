@@ -9,9 +9,9 @@
     <div style="text-align: center;"><!-- Song Player http://playlist.me -->
       <script type="text/javascript" src="http://playlist.me/w/script.js" data-config="{'skin':'skins/aquaBlue/skin.css','volume':50,'autoplay':false,'shuffle':false,'repeat':1,'placement':'top','showplaylist':true,'playlist':[{'title':'Silent Code - East Star','url':'https://www.youtube.com/watch?v=wuwquKSKpdg'},{'title':'Silent Code - Spell Bound','url':'https://www.youtube.com/watch?v=T13Pann2oJg'},{'title':'Silent Code - Night Train','url':'https://www.youtube.com/watch?v=cyQbdI3Kxiw'},{'title':'Christopher Lawrence - Rush Hour','url':'https://www.youtube.com/watch?v=f11aEVOKHts'},{'title':'Fluke - Switch/Twitch','url':'https://www.youtube.com/watch?v=Awaph0MavCw'},{'title':'Paul van Dyk - Nothing but You','url':'https://www.youtube.com/watch?v=ReqPNqp8v14'},{'title':'Deadmau5 - Channel 42','url':'https://www.youtube.com/watch?v=kT8TdSEAZnM'},{'title':'Popeska - Now or Never','url':'https://www.youtube.com/watch?v=2kSt31yONHI'},{'title':'The Joy Formidable - Little Blimp','url':'https://www.youtube.com/watch?v=RtghKWVU9AY'},{'title':'Julien-K - Analog Beaches & Digital Cities','url':'https://www.youtube.com/watch?v=-YJ7sYgmnko'},{'title':'UT Pre-Alpha - Menu Theme','url':'https://www.youtube.com/watch?v=__pRaen_n80'},{'title':'UT2004 - HyperBlast Redux','url':'https://www.youtube.com/watch?v=vkK5D_vLZd0'},{'title':'UT99 - Save Me','url':'https://www.youtube.com/watch?v=Jph4hqB5P6c'},{'title':'One Must Fall 2097 - Menu','url':'https://www.youtube.com/watch?v=i0FNUDLdT4A'},{'title':'Space Debris','url':'https://www.youtube.com/watch?v=thnXzUFJnfQ'},{'title':'Stardust Memories','url':'https://www.youtube.com/watch?v=hY9p1oiE1_Y'},{'title':'Jet Set Radio - Magical Girl','url':'https://www.youtube.com/watch?v=JZY4E2Cagv8'},{'title':'Jet Set Radio - Electric Toothbrush','url':'https://www.youtube.com/watch?v=jeKq7vseMSE'},{'title':'Unreal','url':'https://www.youtube.com/watch?v=SCAkbGl9GdE'},{'title':'Unreal 2','url':'https://www.youtube.com/watch?v=Dmhtc5S4atU'}]}"></script><noscript><a
 href="http://playlist.me/skins/">SCM player skins</a></noscript><!-- playlist.me script end -->
-      <div style="text-align: center;"><a href="index.html"><img title="Solister.top"
+      <div style="text-align: center;"><a href="index_en.html"><img title="Solister.top"
             src="Solister.top%20New%20Logo.png" style="width: 729px; height: 89px;"></a><a
-          href="solister.top"></a> </div>
+          href="index.html"></a><a href="solister.top"></a> </div>
       <style>ul {
     list-style-type: none;
     margin: 0;
@@ -32,12 +32,12 @@ dir {
       <dir>
         <div style="text-align: left;">
           <h1 style="text-align: center;">Temas do Windows 95/98 para Windows 10</h1>
-          <p><a title="Solister.top" href="file:///C:/Users/mfran/Desktop/Nova%20pasta/Solisterbr.github.io/indexen.html">←
-              Back to Home</a><a title="Solister.top" href="index.html"></a><a href="Solister.top"
+          <p><a title="Solister.top" href="../Nova%20pasta/Solisterbr.github.io/indexen.html">←
+              Back to Home</a><a title="Solister.top" href="file:///C:/Users/mfran/Desktop/Nova%20pasta/Solisterbr.github.io/indexen.html"></a><a
+              title="Solister.top" href="index.html"></a><a href="Solister.top"
               title="Solister.top"></a></p>
-          <p style="text-align: center;">Este é um projeto que eu havia feito
-            que dá ao Windows 10 um tema mais clássico similar aos Windows 95 e
-            98. Eis algumas screenshots:</p>
+          <p style="text-align: center;">This is a project which makes Windows
+            10 looks like a classic Windows 95/98</p>
           <div style="text-align: center;"><img src="Windows%209x%20Themes/imageproxy.png"
               alt="" style="width: 346px; height: 194px;"><img src="Windows%209x%20Themes/imageproxy_003.jpg"
               alt="" style="width: 345px; height: 193px;"><img src="Windows%209x%20Themes/imageproxy_003.png"
@@ -46,46 +46,98 @@ dir {
               alt="" style="width: 346px; height: 194px;"></div>
           <div style="text-align: center;"><br>
           </div>
-          <div style="text-align: center;"><u><b>Download dos temas:</b></u></div>
+          <div style="text-align: center;"><u><b>Theme Downloads<br>
+              </b></u></div>
           <div style="text-align: center;"><a href="https://www.mediafire.com/file/c88o3qfb8qo23sp/Windows+98+Theme.rar">Windows
               98</a></div>
           <div style="text-align: center;"><a href="https://www.mediafire.com/file/ygabpw4m61zdyhv/Windows+95+Theme.rar">Windows
               95</a></div>
           <div style="text-align: center;"><br>
           </div>
-          <div style="text-align: center;"><u><b>Instalação:</b></u></div>
+          <p style="text-align:center;"> <strong>Installation:</strong> </p>
+          <p style="text-align:center;"> Looking that both themes are similar to
+            install, I just wrote one tutorial for both themes. Pay attention to
+            file name differences: </p>
           <ol>
-            <li> Baixe os temas, e extraia cada um em uma pasta separada. Faça
-              um ponto de restauração se sentir inseguro.</li>
-            <li>Instale o programa Classic Shell que está dentro da pasta. Se
-              ele começar a te irritar quando liga o Windows, aperte Ctrl +
-              Shift + Esc para abrir o task manager e vá na aba inicializar e
-              desative-o.</li>
-            <li>Usando a barra de pesquisa dentro do programa procure por
-              Customize Taskbar. Haverá uma sub-seção, procure por Taskbar
-              Opacity e coloque 0, e Taskbar color e coloque 382000. Isso fará o
-              iniciar quase invísivel.</li>
-            <li>Depois vá para Start Menu Settings e ponha Classic Style e
-              clique para trocar o logo do Windows. O logo antigo se encontra na
-              pasta Images.</li>
-            <li>Vá no meio do Iniciar, pressione botão direito e clique
-              configurações. Lá selecione a opção de icones pequenos.
-              Aproveitando-se das configurações, aproveite para alterar o
-              Wallpaper e a Lock Screen, com as imagens que se encontram também
-              na pasta Images. Note que o Wallpaper possui uma linha bege, isso
-              servirá para poder fazer o menu iniciar corretamente, pois o
-              Windows 10 não suporta essa cor, nem mesmo com hacking. Se o
-              Wallpaper não condizer com sua resolução procure algo similar no
-              Google, mas terá de fazer a faixa bege por conta própria.</li>
-            <li>Abra a pasta Ribbon Disable, e abra o aplicativo conforme os
-              bits de seu sistema (32 ou 64).</li>
-            <li>Para finalizar você pode trocar os ícones e os sons do Windows
-              10 pelos do Windows 95/98.</li>
+            <li style="text-align:center;"> Download the themes from Media Fire.
+              <a href="http://www.mediafire.com/file/ygabpw4m61zdyhv/Windows+95+Theme.rar"
+                rel="external nofollow noopener" target="_blank">Windows 95</a>;
+              <a href="http://www.mediafire.com/file/c88o3qfb8qo23sp/Windows+98+Theme.rar"
+                rel="external nofollow noopener" target="_blank">Windows 98</a>
+            </li>
+            <li style="text-align:center;"> Extract the files to a separate
+              folder. Make a Windows Restore Point if you fell insecure. </li>
+            <li style="text-align:center;"> Intall Classic Shell, where can be
+              found in the folder that you extacted the files. If Classic Shell
+              starts annoying your life everytime you Turn On your PC, just
+              press Ctrl + Shft + Esc to open task manager. Go to the initialize
+              tab, and disable Classic Shell. The program will work normally
+              everytime you open it by clicking in the icon. </li>
+            <li style="text-align:center;"> Open Classic Start Menu. Using
+              Search Settings, search for Customize Taskbar. </li>
+            <li style="text-align:center;"> In the subsection Taskbar Lock,
+              check the Transparent option. Also put Taskbar opacity to 0, and
+              Taskbar color to 382000, and Taskbar text color to 000000. This
+              will make the taskbar semi-inivisible, you will see the beneficts
+              when finished. </li>
+            <li style="text-align:center;"> After that go to Start Menu Style
+              tab and put Classic Style. In this same section change the Start
+              Button to the 95/98 style using the custom option. The Start
+              Button can be found in the Images Folder. </li>
+            <li style="text-align:center;"> Go to the start menu, press
+              right-click and goes to settings. There you will have a option to
+              use small buttons on the Start Menu, enable it </li>
+            <li style="text-align:center;"> In the Settings window, config also
+              your Wallpaper (Found in the Images folder), and the Lock Screen
+              if you want (Also found in the Images folder). If your resolution
+              didn't meet this specs, try searching something related on Google
+              Images. </li>
+            <li style="text-align:center;"> Go to Ribbon Disable Folder where is
+              located on the folder you extracted the pack. Run the correct
+              version of the app according to your Windows Version (32 or
+              64-bits). </li>
+            <li style="text-align:center;"> Almost Everything is finished. If
+              you want to have icons and sounds like Windows 95/98, follow this
+              step, if not and you are satisfied with the Windows 10 icons and
+              sounds, just skip it. To chage icons, do a little search on the
+              Start Menu search box for icons. You will find an option to
+              customize the Desktop icons, click on it. Change the icons to the
+              95/98 equivalent. To the sound, press right-click on the sound
+              button at the Start Menu and click in Sounds. There you have the
+              possibility to make your own sound scheme, change the Windows 10
+              sounds to the 95/98 equivalent. The Windows 95/98 icons are found
+              in the folder 'original_windows_95_icons_by_ipapun", and the
+              sounds in the "Sounds" folder. </li>
+            <li style="text-align:center;"> That is! Now you should have an
+              perfectly Windows 98 in you Windows 10 system!. </li>
           </ol>
+          <p style="text-align:center;"> <strong>To Uninstall;</strong> </p>
+          <p style="text-align:center;"> If you made a restore point, use it, if
+            not, follow these steps: </p>
+          <ol>
+            <li style="text-align:center;"> Uninstall Classic Shell. </li>
+            <li style="text-align:center;"> Back to the Original size of the
+              Start Menu, using settings. Also back to your original Wallpaper
+              and Lock Screen. </li>
+            <li style="text-align:center;"> Use Ribbon Disabler to return to the
+              original. (It would be the only option avaible). </li>
+            <li style="text-align:center;"> Return to the Windows Sound Scheme
+              by the same way you changed it. And click to restore all icons on
+              the page you edited it. </li>
+            <li style="text-align:center;"> That is! Now you should have your
+              original Windows 10. </li>
+          </ol>
+          <p style="text-align:center;"> Sorry if some Windows option name is
+            wrong, I tried to translate from my Windows version (Portuguese), to
+            English, I hope that be understandable. If you have some trouble to
+            install/Uninstall the new version, talk with me and I'll try to help
+            as soon as possible. Hope you enjoy the new and (probably) the last
+            version.</p>
           <div style="text-align: right;">- Solister, 13/12/2017</div>
           <div style="text-align: right;">(Translated on <span class="_Xbe kno-fv">May/12/2018</span>)</div>
-          <div style="text-align: left;"><a title="Solister.top" href="file:///C:/Users/mfran/Desktop/Nova%20pasta/Solisterbr.github.io/indexen.html">←
-              Back to Home</a><a title="Solister.top" href="index.html"></a><a href="Solister.top"
+          <div style="text-align: left;"><a title="Solister.top" href="../Nova%20pasta/Solisterbr.github.io/indexen.html">←
+              Back to Home</a><a title="Solister.top" href="file:///C:/Users/mfran/Desktop/Nova%20pasta/Solisterbr.github.io/indexen.html"></a><a
+              title="Solister.top" href="index.html"></a><a href="Solister.top"
               title="Solister.top"></a></div>
         </div>
       </dir>
